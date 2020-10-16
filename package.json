@@ -1,5 +1,5 @@
 {
-  "name": "node-checker",
+  "name": "noder-checker",
   "version": "0.0.1",
   "description": "A basic testing suite thats ready right out of the box",
   "main": "app.js",
